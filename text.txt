@@ -1,0 +1,3 @@
+Person{name - Sam, lastName - Young, Address{city - London, street - Royal, numberHouse - 1}
+Person{name - Tom, lastName - Lee, Address{city - Paris, street - Herold, numberHouse - 27}
+Person{name - Jack, lastName - Fox, Address{city - Rome, street - Monti, numberHouse - 10}
